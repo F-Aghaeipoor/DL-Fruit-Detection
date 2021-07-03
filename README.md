@@ -1,6 +1,6 @@
 # Weed Detection
 
-This is an object detection project aming at recognising weed objects (Under Development...).
+This is an object detection project aiming at recognizing weed objects (Under Development...).
 
 ## Dataset available in https://www.kaggle.com/vvatsalggupta/weed-detection
 
