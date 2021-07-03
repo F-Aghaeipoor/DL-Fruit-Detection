@@ -8,10 +8,10 @@ Two types of images are included in the dataset: (i) images of food crops and we
 have been cultivated in vegetation pots in controlled greenhouse conditions; (ii) images
 of food crops and weeds from open field conditions.
 
-To build the dataset, common weed species found in vegetable fields were selected, 8
-weeds:
+**To build the dataset, common weed species found in vegetable fields were selected, 8
+weeds:**
 
-goosefoot (Chenopodium album)
+* goosefoot (Chenopodium album)
 
 catchweed (Galium aparine)
 
@@ -27,7 +27,7 @@ field pansy (Viola arvensis)
 
 quickweed (Galinsoga parviflora)
 
-There were 6 food crops selected:
+**There were 6 food crops selected:**
 
 beetroot (Beta vulgaris)
 
