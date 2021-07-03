@@ -8,35 +8,35 @@ Two types of images are included in the dataset: (i) images of food crops and we
 have been cultivated in vegetation pots in controlled greenhouse conditions; (ii) images
 of food crops and weeds from open field conditions.
 
-**To build the dataset, common weed species found in vegetable fields were selected, 8
+## To build the dataset, common weed species found in vegetable fields were selected, 8
 weeds:**
 
 * goosefoot (Chenopodium album)
 
-catchweed (Galium aparine)
+* catchweed (Galium aparine)
 
-field pennycress (Thlaspiarvense)
+* field pennycress (Thlaspiarvense)
 
-shepherd's purse (Capsella bursa-pastoris)
+* shepherd's purse (Capsella bursa-pastoris)
 
-field chamomile (Matricariaperforata)
+* field chamomile (Matricariaperforata)
 
-wild buckwheat (Polygonum convolvulus)
+* wild buckwheat (Polygonum convolvulus)
 
-field pansy (Viola arvensis)
+* field pansy (Viola arvensis)
 
-quickweed (Galinsoga parviflora)
+* quickweed (Galinsoga parviflora)
 
-**There were 6 food crops selected:**
+## There were 6 food crops selected:**
 
-beetroot (Beta vulgaris)
+* beetroot (Beta vulgaris)
 
-carrot (Daucus carota var. sativus)
+* carrot (Daucus carota var. sativus)
 
-zucchini (Cucurbita pepo subsp. pepo)
+* zucchini (Cucurbita pepo subsp. pepo)
 
-pumpkin (Cucurbita pepo)
+* pumpkin (Cucurbita pepo)
 
-radish (Raphanus sativus var. sativus)
+* radish (Raphanus sativus var. sativus)
 
-black radish (Raphanus sativus var. niger).
+* black radish (Raphanus sativus var. niger).
