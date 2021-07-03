@@ -1,4 +1,4 @@
-Weed-Detection
+# Weed Detection
 
 This is an object detection project aming at recognising weed objects.
 
@@ -18,7 +18,7 @@ of food crops and weeds from open field conditions.
 * field pansy (Viola arvensis)
 * quickweed (Galinsoga parviflora)
 
-## There were 6 food crops selected:**
+## There were 6 food crops selected:
 * beetroot (Beta vulgaris)
 * carrot (Daucus carota var. sativus)
 * zucchini (Cucurbita pepo subsp. pepo)
