@@ -1,27 +1,19 @@
-# Weed Detection
+# Fruit Detection
 
-This is an object detection project aiming at recognizing weed objects (Under Development...).
+This is an object detection project aiming at recognizing Fruit objects (apple, bnanna, orange).
 
-## Dataset available in https://www.kaggle.com/vvatsalggupta/weed-detection
+## Dataset available in https://www.kaggle.com/kanmeh/fruits-dataset?select=train_zip
 
-Two types of images are included in the dataset: (i) images of food crops and weeds that
-have been cultivated in vegetation pots in controlled greenhouse conditions; (ii) images
-of food crops and weeds from open field conditions.
+Two types of images are included in the dataset: (i) images of one single fruit (ii) images
+of mixed fruits.
 
-## To build the dataset, common weed species found in vegetable fields were selected, 8 weeds:
-* goosefoot (Chenopodium album)
-* catchweed (Galium aparine)
-* field pennycress (Thlaspiarvense)
-* shepherd's purse (Capsella bursa-pastoris)
-* field chamomile (Matricariaperforata)
-* wild buckwheat (Polygonum convolvulus)
-* field pansy (Viola arvensis)
-* quickweed (Galinsoga parviflora)
+<p><br>
 
-## There were 6 food crops selected:
-* beetroot (Beta vulgaris)
-* carrot (Daucus carota var. sativus)
-* zucchini (Cucurbita pepo subsp. pepo)
-* pumpkin (Cucurbita pepo)
-* radish (Raphanus sativus var. sativus)
-* black radish (Raphanus sativus var. niger).
+<div>
+<img src="./YOLO-V5/Sourses/1.png" width="400" height="200"/>
+</div>
+
+<p><br>
+
+
+**YOLOv5** is a family of object detection architectures and models pretrained on the COCO dataset, and represents [**Ultralytics**](https://docs.ultralytics.com/) open-source research into future vision AI methods, incorporating lessons learned and best practices evolved over thousands of hours of research and development.
