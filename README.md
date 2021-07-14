@@ -2,7 +2,7 @@
 
 This is an object detection project aiming at recognizing Fruit objects including apple, bnanna, orange.
 
-## Dataset available in https://www.kaggle.com/kanmeh/fruits-dataset?select=train_zip.
+Dataset available in https://www.kaggle.com/kanmeh/fruits-dataset?select=train_zip.
 
 Two types of images are included in the dataset: (i) images of one single fruit (ii) images
 of mixed fruits.
