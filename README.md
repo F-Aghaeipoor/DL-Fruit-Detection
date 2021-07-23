@@ -13,4 +13,4 @@ of mixed fruits.
 </div>
 <p><br>
   
-This project can be generalized to detect more species of fruits in case of preparing more training images and ofcourse the more training data the more accurate model!
+This project can be generalized to detect more species of fruits in case of preparing more training images, and ofcourse **the more training data the more accurate model**!
