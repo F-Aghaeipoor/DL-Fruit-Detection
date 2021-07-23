@@ -9,7 +9,7 @@ of mixed fruits.
 
 <p><br>
 <div>
-<img src="https://github.com/F-Aghaeipoor/DL-Fruit-Detection/blob/master/YOLO-V5/Sources/2.png" width="800" height="600"/>
+<img src="https://github.com/F-Aghaeipoor/DL-Fruit-Detection/blob/master/YOLO-V5/Sources/3.png" width="800" height="600"/>
 </div>
 <p><br>
   
