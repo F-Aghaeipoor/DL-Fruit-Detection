@@ -1,6 +1,6 @@
 # Fruit Detection
 
-This is an object detection project aiming at identifying fruit objects namely apple, bnanna, orange, pineapple, strawberry, and mango.
+This is an object detection projects using different algorithms, aiming at identifying fruit cases namely apple, banana, orange, pineapple, strawberry, and mango.
 
 A part of dataset is available in https://www.kaggle.com/kanmeh/fruits-dataset?select=train_zip. Additionally, several images of the last three species were manually prepared and annotated.
 
@@ -13,4 +13,4 @@ of mixed fruits.
 </div>
 <p><br>
   
-This project can be generalized to detect more species of fruits in case of preparing more training images, and ofcourse **the more training data the more accurate model**!
+This project can be generalized to detect more species of fruits in case of preparing more training images, and of course **the more training data the more accurate model**!
